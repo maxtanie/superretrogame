@@ -50753,6 +50753,27 @@
         "marker-color": "#ffffff",
         "marker-size": "medium",
         "marker-symbol": "",
+        "shop": "Game Cash Chie2",
+        "shopCode": 45340,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "Centre Commercial E. Leclerc Les Hauts Vents, Rue François Truffaut, 45250 Chilleur",
+        "region": "Centre-Val de Loire",
+        "qualification": "Boutique Franchise retrogaming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5018218994140624,
+          48.0968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "shop": "Game Cash Chie3",
         "shopCode": 45340,
         "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
@@ -50764,6 +50785,27 @@
         "type": "Point",
         "coordinates": [
           2.58218994140625,
+          47.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Game Cash Chie4",
+        "shopCode": 45340,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "Centre Commercial E. Leclerc Les Hauts Vents, Rue François Truffaut, 45250 Chilleur",
+        "region": "Centre-Val de Loire",
+        "qualification": "Boutique Franchise retrogaming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8218994140625,
           47.04968264823436
         ]
       }
