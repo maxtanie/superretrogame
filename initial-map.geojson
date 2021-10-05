@@ -50831,6 +50831,27 @@
           49.04968264823436
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Game Cash Grand",
+        "shopCode": 60240,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "Centre Commercial E. Leclerc Les Hauts Vents, Rue François Truffaut, 60450 GRAND",
+        "region": "Grand Est",
+        "qualification": "Boutique Franchise retrogaming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.98218994140625,
+          49.04968264823436
+        ]
+      }
     }
   ]
 }
